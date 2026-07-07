@@ -1,0 +1,29 @@
+{
+  "identifier" : "DepboardStoreKitConfig",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "depboard_pro",
+      "localizations" : [
+        {
+          "description" : "Unlimited flights, delay-pattern stats, and compensation claim notes",
+          "displayName" : "Departure Board Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.depboard.pro",
+      "referenceName" : "Depboard Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_developerTeamID" : "W7Q885Q59C"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
